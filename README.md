@@ -2,6 +2,8 @@
 
 Chrome Extension - Improves news websites by replacing them with a calming kitten GIF.
 
+Store: https://chrome.google.com/webstore/detail/newskitten/inilfjleeickdpnedgkobgbcmcaicdfo
+
 # Why?
 
 Because news is depressing: https://wogan.blog/newskitten/
